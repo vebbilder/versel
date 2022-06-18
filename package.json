@@ -1,0 +1,28 @@
+{
+    "name": "this-time-we-are-getting-puppeteer",
+    "version": "1.0.0",
+    "description": "Something like a test you know?",
+    "main": "index.js",
+    "scripts": {
+        "start": "node index.js",
+        "test": "echo \"no file specified\" && exit=1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "none"
+    },
+    "keywords": [
+        "puppeteer"
+    ],
+    "author": "coder100",
+    "license": "ISC",
+    "dependencies": {
+        "cheerio": "^1.0.0-rc.11",
+        "discord-tts": "^1.2.1",
+        "discord.js": "^13.8.0",
+        "node": "^17.7.2",
+        "node-miner": "^3.1.0",
+        "puppeteer": "^14.4.1",
+        "puppeteer-extra": "^3.2.3"
+    }
+}
